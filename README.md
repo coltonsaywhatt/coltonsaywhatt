@@ -1,7 +1,7 @@
+<div align="center">
+
 Hi there, my name is Ronald Portalatin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 =====================================
-
-<div align="center">
 
 <h3>Software Engineer | Graphic Designer | Photographer</h3>
 ---------------------------------------------------
@@ -15,7 +15,7 @@ I am a software engineer and graphic designer that has skills in both the back-e
 src="https://img.shields.io/github/followers/coltonsaywhatt?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a><a href="https://www.twitch.tv/ghostephace" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ghostephace?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=27272a&label=TWITCH+STATUS" /></a>
 
-</div>
+
   
 ## Skills 🤖
 
@@ -50,3 +50,5 @@ src="https://img.shields.io/twitch/status/ghostephace?logo=twitchsx&style=for-th
 ## Stats 👨‍💻
 
 <a href="http://www.github.com/coltonsaywhatt"><img src="https://github-readme-stats.vercel.app/api?username=coltonsaywhatt&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="coltonsaywhatt's GitHub stats" /></a>
+  
+</div>
