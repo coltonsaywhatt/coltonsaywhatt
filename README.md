@@ -8,7 +8,7 @@ Hi there, my name is Ronald Portalatin! <img src="https://media.giphy.com/media/
 
 I am a software engineer and graphic designer that has skills in both the back-end of web applications and the front-end. As an artist, I have a passion to think outside the box in a creative manner to solve complex problems. I thrive in a team environment and strive to add my vision to every project and make the visions of others into a reality.
 
-🌍  I'm based in Lakeland. Florida
+🌍  I'm based in Lakeland. Florida <br>
 ✉️  You can contact me at [coltonsaywhatt@gmail.com](mailto:coltonsaywhatt@gmail.com)
 
 <a href="https://www.github.com/coltonsaywhatt" target="_blank" rel="noreferrer"><img
