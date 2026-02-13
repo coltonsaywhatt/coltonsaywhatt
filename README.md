@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi there, my name is Ronald Portalatin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi there, my name is Colton Lee! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 =====================================
 
 <h3>Software Engineer | Graphic Designer | Photographer</h3>
